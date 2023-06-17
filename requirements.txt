@@ -1,6 +1,5 @@
 gsheetsdb==0.1.13.1
 pandas==1.4.3
-pandas==1.4.1
 protobuf==3.20.3
 st_files_connection==0.1.0
 streamlit==1.23.1
